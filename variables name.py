@@ -15,4 +15,4 @@ print(myvar2)
 #this is a comment
 # Camel Case = myVariableName = "John"
 # Pascal Case = MyVariableName = "John"
-# Snake case = my_variable_name = "John"
+# Snake Case = my_variable_name = "John"
