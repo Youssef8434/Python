@@ -1,7 +1,4 @@
-txt = "We are the so-called "Vikings" from the north."    #eror code
-#You will get an error if you use double quotes inside a string that are surrounded by double quotes:
-
-txt = "We are the so-called \"Vikings\" from the north." #true code 
+txt = "We are the so-called \"Vikings\" from the north."  
 print(txt) 
 
 txt = 'It\'s alright.'      #\'	 =   Single Quote
